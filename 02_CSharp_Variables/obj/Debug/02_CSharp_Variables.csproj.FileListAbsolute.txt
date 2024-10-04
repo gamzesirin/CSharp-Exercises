@@ -1,0 +1,7 @@
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\02_CSharp_Variables\bin\Debug\02_CSharp_Variables.exe.config
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\02_CSharp_Variables\bin\Debug\02_CSharp_Variables.exe
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\02_CSharp_Variables\bin\Debug\02_CSharp_Variables.pdb
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\02_CSharp_Variables\obj\Debug\02_CSharp_Variables.csproj.AssemblyReference.cache
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\02_CSharp_Variables\obj\Debug\02_CSharp_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\02_CSharp_Variables\obj\Debug\02_CSharp_Variables.exe
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\02_CSharp_Variables\obj\Debug\02_CSharp_Variables.pdb
