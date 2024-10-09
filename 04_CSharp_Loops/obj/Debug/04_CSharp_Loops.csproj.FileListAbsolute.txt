@@ -1,0 +1,7 @@
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\04_CSharp_Loops\bin\Debug\04_CSharp_Loops.exe.config
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\04_CSharp_Loops\bin\Debug\04_CSharp_Loops.exe
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\04_CSharp_Loops\bin\Debug\04_CSharp_Loops.pdb
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\04_CSharp_Loops\obj\Debug\04_CSharp_Loops.csproj.AssemblyReference.cache
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\04_CSharp_Loops\obj\Debug\04_CSharp_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\04_CSharp_Loops\obj\Debug\04_CSharp_Loops.exe
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\04_CSharp_Loops\obj\Debug\04_CSharp_Loops.pdb
