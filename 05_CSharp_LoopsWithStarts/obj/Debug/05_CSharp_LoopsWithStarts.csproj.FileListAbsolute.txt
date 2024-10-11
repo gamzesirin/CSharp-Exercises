@@ -1,0 +1,7 @@
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\05_CSharp_LoopsWithStarts\bin\Debug\05_CSharp_LoopsWithStarts.exe.config
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\05_CSharp_LoopsWithStarts\bin\Debug\05_CSharp_LoopsWithStarts.exe
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\05_CSharp_LoopsWithStarts\bin\Debug\05_CSharp_LoopsWithStarts.pdb
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\05_CSharp_LoopsWithStarts\obj\Debug\05_CSharp_LoopsWithStarts.csproj.AssemblyReference.cache
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\05_CSharp_LoopsWithStarts\obj\Debug\05_CSharp_LoopsWithStarts.csproj.CoreCompileInputs.cache
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\05_CSharp_LoopsWithStarts\obj\Debug\05_CSharp_LoopsWithStarts.exe
+C:\Users\Gamze Şirin\source\repos\CSharpEgitimKampi1\05_CSharp_LoopsWithStarts\obj\Debug\05_CSharp_LoopsWithStarts.pdb
